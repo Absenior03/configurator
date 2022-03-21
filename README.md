@@ -1,4 +1,4 @@
-<img src="https://gopaddle-marketing.s3.ap-southeast-2.amazonaws.com/Configurator-sync-service.png" width="50%">
+<img src="https://gopaddle-marketing.s3.ap-southeast-2.amazonaws.com/Configurator-sync-service.png" width="50%" align="center">
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/gopaddleio/gopaddle)  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  [![Twitter URL](https://img.shields.io/twitter/url?label=%40configuratork8s&style=social&url=https%3A%2F%2Ftwitter.com%2Fconfiguratork8s)](https://twitter.com/configuratork8s)
 
