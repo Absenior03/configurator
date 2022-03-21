@@ -1,6 +1,6 @@
 ## Community
 
-Configurator has a [discord server]((https://discord.gg/dr24Z4BmP8)) where we discuss open issues and help newcomers to contribute more easily. Feautre requests and rearchitectural proposals are discussed here before making version updates. We are still a growing community and people of all skill levels are welcomed to join and contribute in whichever way possible.
+Configurator has a [discord server]((https://discord.gg/dr24Z4BmP8)) where we discuss open issues and help newcomers to contribute more easily. Feature requests and rearchitectural proposals are discussed here before making version updates. We are still a growing community and people of all skill levels are welcomed to join and contribute in whichever way possible.
 
 ### Areas you can help out
 
@@ -22,12 +22,12 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 1. If you notice a bug or have a useful feature in mind raise an issue in the issue tracker or mention it in the discord server.
 
-2. Label issues accordingly in the issue tracker
+2. Label issues accordingly in the issue tracker.
 
 ## Pull Request Process
 
-1.  We follow the standard ‘Fork and Pull’ workflow.
-2.  Fetch the latest code from master branch and resolve any conflicts before sending a pull request.
+1. We follow the standard ‘Fork and Pull’ workflow.
+2. Fetch the latest code from master branch and resolve any conflicts before sending a pull request.
 3. Ensure any install or build dependencies are removed before the end of the layer when doing a 
    build.
 4. Update the README.md with details of changes to the interface, this includes new environment 
